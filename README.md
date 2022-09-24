@@ -9,7 +9,7 @@ Subover is a Hostile Subdomain Takeover tool originally written in python but re
 You need to have Golang installed on your machine. There are no additional requirements for this tool.
 
 ```sh
-go get github.com/Ice3man543/SubOver
+go get github.com/trhacknon/SubOver
 ```
 
 > NOTE - Do not change the location of providers.json file. Or the tool will not work. 
@@ -32,7 +32,7 @@ go get github.com/Ice3man543/SubOver
 Count : 51
   
 ## Screenshot
-![tool_in_action](https://raw.githubusercontent.com/Ice3man543/SubOver/master/subover.png)
+![tool_in_action](https://raw.githubusercontent.com/trhacknon/SubOver/master/subover.png)
 
 ## FAQ
 **Q:** What should my wordlist look like?
@@ -64,7 +64,7 @@ You can add more services or recommend any changes to the existing ones. Any kin
 
 Or buy me a coffee \o/
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Ice3man)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/M4M7FAVC)
 
 License
@@ -75,7 +75,7 @@ BSD 2-Clause "Simplified" License
 
 ## Contact
 
-Meet me on Twitter: [![Twitter](https://img.shields.io/badge/twitter-@ice3man543-blue.svg)](https://twitter.com/ice3man543)
+Meet me on Twitter: [![Twitter](https://img.shields.io/badge/twitter-@ice3man543-blue.svg)](https://twitter.com/)
 
 ## Changelog
 
@@ -104,6 +104,6 @@ Meet me on Twitter: [![Twitter](https://img.shields.io/badge/twitter-@ice3man543
 ## Credits
 
 - [subjack : Hostile Subdomain Takeover Tool Written In GO](https://github.com/haccer/subjack)
-- [Subdomain Takeover Scanner by 0x94](https://github.com/antichown/subdomain-takeover)
+- [Subdomain Takeover Scanner by 0x94](https://github.com/trhacknon/subdomain-takeover)
 - [Anshumanbh : tko-subs](https://github.com/anshumanbh/tko-subs)
 - [EdOverflow : can-i-take-over-xyz](https://github.com/edoverflow/can-i-take-over-xyz)
