@@ -105,5 +105,5 @@ Meet me on Twitter: [![Twitter](https://img.shields.io/badge/twitter-@ice3man543
 
 - [subjack : Hostile Subdomain Takeover Tool Written In GO](https://github.com/haccer/subjack)
 - [Subdomain Takeover Scanner by 0x94](https://github.com/trhacknon/subdomain-takeover)
-- [Anshumanbh : tko-subs](https://github.com/anshumanbh/tko-subs)
-- [EdOverflow : can-i-take-over-xyz](https://github.com/edoverflow/can-i-take-over-xyz)
+- [Anshumanbh : tko-subs](https://github.com/trhacknon/tko-subs)
+- [EdOverflow : can-i-take-over-xyz](https://github.com/trhacknon/can-i-take-over-xyz)
