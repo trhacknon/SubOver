@@ -173,7 +173,7 @@ func main() {
     ParseArguments()
 
     fmt.Println("")
-    fmt.Println("SubOver v.1.2              Nizamul Rana (@Ice3man)")
+    fmt.Println("SubOver v.1.2              trhacknon (@Trhacknon)")
     fmt.Println("==================================================\n")
 
     if HostsList == "" {
